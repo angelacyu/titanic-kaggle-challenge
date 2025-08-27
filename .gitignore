@@ -1,0 +1,35 @@
+# Anaconda projects folder
+anaconda_projects/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (if large)
+*.pkl
+*.h5
+*.joblib
+
+# Submissions (keep only best)
+submissions/*.csv
+!submissions/best_submission.csv
