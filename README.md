@@ -9,3 +9,7 @@ Machine learning project to predict passenger survival on the Titanic using vari
 - **Kaggle Score**: 0.73
 
 ## Project Structure
+
+## Getting Started
+conda activate titanic
+jupyter notebook
